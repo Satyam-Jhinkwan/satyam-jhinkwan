@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam-jhinkwan&label=Profile%20views&color=0e75b6&style=flat" alt="satyam-jhinkwan" /> </p>
 
-- 🔭 I’m currently working on **React-blog**
+- 🔭 I’m currently working on **Backend-Project**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-theta-five-zyltofazfb.vercel.app](https://portfolio-theta-five-zyltofazfb.vercel.app)
 
